@@ -13,6 +13,6 @@ GROUP 6
 - IntelliJ: https://www.jetbrains.com/idea/download/#section=windows (Sử dụng bản community cũng được)
 - Maven Repository: https://mvnrepository.com/ (Lib dành cho selenium https://mvnrepository.com/search?q=selenium)
 # Video 
-- 
+- https://www.youtube.com/watch?v=J5epy3iCfZE
 # Guideline
 - [Selenium Test Automation Tool Instructions.docx](https://github.com/1gfour/SELENIUM-WITH-JAVA/files/9089427/Selenium.Test.Automation.Tool.Instructions.docx)
