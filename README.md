@@ -12,3 +12,5 @@ GROUP 6
 - Netbeans: https://netbeans.apache.org/
 - IntelliJ: https://www.jetbrains.com/idea/download/#section=windows (Sử dụng bản community cũng được)
 - Maven Repository: https://mvnrepository.com/ (Lib dành cho selenium https://mvnrepository.com/search?q=selenium)
+# Video 
+- 
