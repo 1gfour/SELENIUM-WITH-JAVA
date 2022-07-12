@@ -14,3 +14,5 @@ GROUP 6
 - Maven Repository: https://mvnrepository.com/ (Lib dành cho selenium https://mvnrepository.com/search?q=selenium)
 # Video 
 - 
+# Guideline
+- [Selenium Test Automation Tool Instructions.docx](https://github.com/1gfour/SELENIUM-WITH-JAVA/files/9089427/Selenium.Test.Automation.Tool.Instructions.docx)
